@@ -1,6 +1,6 @@
 ## Overview 
 
-Convert your formatted document to markdown or HTML.
+Convert your formatted document to Markdown or HTML.
 
 The plugin uses (Docs to Markdown)[https://github.com/evbacher/gd2md-html] add-on. 
 
