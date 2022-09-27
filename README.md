@@ -1,3 +1,7 @@
+## Information
+
+This repository is an archive of plugin-doc2md. Now it moved to the marketplace repository [onlyoffice.github.io](https://github.com/ONLYOFFICE/onlyoffice.github.io/tree/master/sdkjs-plugins/content).
+
 ## Overview 
 
 Convert your formatted document to Markdown or HTML.
